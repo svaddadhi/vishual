@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for personal photography page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svaddadhi/vishual.git"
+  },
+  "author": "Vishal Vaddadhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svaddadhi/vishual/issues"
+  },
+  "homepage": "https://github.com/svaddadhi/vishual#readme",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.17.1"
+  }
+}
