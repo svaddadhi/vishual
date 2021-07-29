@@ -1,7 +1,26 @@
-.menuColor{
-    color: black;
+.menuIcon {
+  width: 200px;
+  height: 150px;
+  margin-top: -20px;
+  margin-left: -20px;
 }
 
-.itemColors {
-    color: white;
+.navBarStyles {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navBarCardStyles {
+  background-color: black;
+  border: none;
+}
+
+.mainRowStyle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menuText {
+  color: white;
+  padding-left: 20px;
 }

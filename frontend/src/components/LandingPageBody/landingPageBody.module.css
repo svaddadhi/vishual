@@ -1,0 +1,35 @@
+.mainRow {
+  display: flex;
+  justify-content: center;
+  padding-top: 300px;
+}
+
+.cardBackground {
+  border: none;
+  background-color: black;
+  max-width: 500px;
+  align-items: center;
+}
+
+.title {
+  color: white;
+}
+
+.vishual {
+  color: white;
+  text-align: center;
+}
+
+.breakLine {
+  color: white;
+}
+
+.subText {
+  color: white;
+}
+
+.bigImage {
+  margin-top: -150px;
+  height: 600px;
+  width: 750px;
+}
