@@ -1,0 +1,26 @@
+.mainRow {
+  display: flex;
+  justify-content: center;
+}
+
+.aboutHeading {
+  color: white;
+}
+
+.aboutDesc {
+  width: 600px;
+  color: white;
+}
+
+.leafImage {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+
+.aboutImage {
+  width: 600px;
+  height: 500px;
+  background-image: url("../../images/ellipse.png");
+  background-size: cover;
+}

@@ -1,13 +1,12 @@
-import React from 'react'
+import React from "react";
+import AboutPageBody from "../components/AboutPageBody/aboutPageBody";
 
 const AboutPage = () => {
-    return (
-        <div>
-            <h1>This is the About page</h1>
-        </div>
-    )
-}
+  return (
+    <div>
+      <AboutPageBody />
+    </div>
+  );
+};
 
-
-
-export default AboutPage
+export default AboutPage;
